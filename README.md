@@ -1,4 +1,4 @@
-# LibriS2S
+# S2S
 This repo contains scripts and alignment data to create a dataset build further upon [librivoxDeEn](https://www.cl.uni-heidelberg.de/statnlpgroup/librivoxdeen/) such that it contains (German audio, German transcription, English audio, English transcription) quadruplets and can be used for Speech-to-Speech translation research. Because of this, the alignments are released under the same [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) <div>
  These alignments were collected by downloading the English audiobooks and using [aeneas](https://github.com/readbeyond/aeneas) to align the book chapters to the transcripts. For more information read the original [paper](https://arxiv.org/abs/2204.10593) (Presented at LREC 2022)
 
